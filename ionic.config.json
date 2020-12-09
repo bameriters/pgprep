@@ -13,5 +13,11 @@
 			}
 		]
 	}
-  }
+  },
+  "scripts": {
+        "start": "ionic-app-scripts serve",
+        "clean": "ionic-app-scripts clean",
+        "build": "./mybuild.sh",
+        "lint": "ionic-app-scripts lint"
+    },
 }
