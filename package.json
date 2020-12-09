@@ -4,8 +4,11 @@
   "description": "my cordova app",
   "main": "index.js",
   "scripts": {
-    "test": "test"
-  },
+        "start": "ionic-app-scripts serve",
+        "clean": "ionic-app-scripts clean",
+        "build": "./mybuild.sh",
+        "lint": "ionic-app-scripts lint"
+	},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bameriters/pgprep.git"

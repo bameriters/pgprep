@@ -7,17 +7,12 @@
 			{
 			   "locator": "cordova-plugin-facebook4",
 			   "variables": {
-				   "APP_ID": "657240664388453",
+				   "APP_ID": "1629894760569654",
 				   "APP_NAME": "PGPrep"
 			   }
 			}
 		]
 	}
   },
-  "scripts": {
-        "start": "ionic-app-scripts serve",
-        "clean": "ionic-app-scripts clean",
-        "build": "./mybuild.sh",
-        "lint": "ionic-app-scripts lint"
-    },
+  
 }
