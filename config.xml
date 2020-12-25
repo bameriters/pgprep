@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.pgprep" version="12.1.8" versionCode="120108" xmlns:gap = "http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.pgprep" version="12.1.9" versionCode="120109" xmlns:gap = "http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>PGPrep MD</name>
     <description>
         NEET-PG, AIIMS-PG, JIPMER, PGI
@@ -13,7 +13,7 @@
 	<plugin name="cordova-plugin-network-information"/>
 	<plugin name="cordova-plugin-inappbrowser"/>
 	<plugin name="cordova-plugin-x-socialsharing" spec="5.6.0"/>
-	<plugin name="cordova-plugin-contacts-phonenumbers"/>
+	<!-- <plugin name="cordova-plugin-contacts-phonenumbers"/> -->
 	<plugin name="phonegap-plugin-push" spec="2.1.3">
 		<param name="framework" value="false"/>
 		<variable name="FCM_VERSION" value="11.8.0"/>
