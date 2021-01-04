@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.pgprep" version="12.11" versionCode="121001" xmlns:gap = "http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.pgprep" version="13.1.1" versionCode="121002" xmlns:gap = "http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>PGPrep MD</name>
     <description>
         NEET-PG, AIIMS-PG, JIPMER, PGI
